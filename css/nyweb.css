@@ -1,0 +1,59 @@
+body{
+    text-align: center;
+    margin: 0px;
+    
+}
+   
+.Intro{
+    /* width: 50%; */
+    /* margin:200px; */
+    background-color: #c0e8e8;
+    font-family: 'Dancing Script', cursive;
+    padding: 100px;
+  
+}
+.cloud1{
+   
+    position:absolute;
+    top: 50px;
+    right: 400px;
+}
+h1{
+    /* font-family: 'Comforter Brush', cursive; */
+    
+}
+.cloud2{
+   position: absolute;
+   left: 500px;
+}
+p{
+    font-family: 'Kalam', cursive;
+}
+.middle-container{
+    font-family: 'Noto Sans Mono', monospace;
+    margin:100px;
+    text-align: center;
+}
+.profilepic{
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+}
+.skill-row{
+    display: inline-block;
+    /* padding: 50px; */
+}
+h3{
+    display:inline-block;
+}
+.btn{
+    display: block;
+}
+
+
+
+
+
+
+
+
